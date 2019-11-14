@@ -1,0 +1,4 @@
+### navigator.maxTouchPoints
+
+The navigator.maxTouchPoints API allows sites, to access device capability info. This is allowed in the background and runs unrestricted. 
+
