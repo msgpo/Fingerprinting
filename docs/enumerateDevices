@@ -1,0 +1,5 @@
+### navigator.mediaDevices.enumerateDevices
+
+`window.navigator.mediaDevices.enumerateDevices` allows a website, without permission, to learn a about device capabilities (number and category [video,audio,etc]) of available devices.
+
+There is currently no protection against it, but it's proposed to address in Chrome as well as in [Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=1397978). See [here](https://bugzilla.mozilla.org/show_bug.cgi?id=1528042) for more information.
